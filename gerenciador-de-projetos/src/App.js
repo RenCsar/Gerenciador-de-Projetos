@@ -1,4 +1,5 @@
 import './App.css';
+import HelloWorld from './Components/HelloWorld';
 
 function App() {
   const nome = 'Renan';
@@ -15,6 +16,7 @@ function App() {
         </p>
         <p>Olá, {upperNome}!</p>
         <img src= {url1} alt="Minha imagem" />
+        <HelloWorld/>
     </div>
   );
 }
