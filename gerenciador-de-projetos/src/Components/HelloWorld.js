@@ -8,10 +8,7 @@ function HelloWorld() {
       <h1>Meu primeiro componente em REACT!</h1>
       <Frase/>
     </div>
-
   )
-
-
 }
 
 export default HelloWorld;
