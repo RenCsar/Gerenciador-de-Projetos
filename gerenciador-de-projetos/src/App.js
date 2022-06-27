@@ -2,6 +2,7 @@ import './App.css';
 import HelloWorld from './Components/HelloWorld';
 import SayMyName from './Components/SayMyName';
 import Pessoa from './Components/Pessoa';
+import Frase from './Components/Frase';
 
 function App() {
   const nome = "Cesar";
